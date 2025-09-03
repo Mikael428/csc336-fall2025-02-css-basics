@@ -10,3 +10,8 @@ h1 {
 p {
     font-family: Verdana;
 }
+
+a:hover {
+    background-color: white;
+    font-size: 12px;
+}
