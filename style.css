@@ -23,7 +23,7 @@ p:hover {
     font-size: 18px;
 }
 
-.center {
+p.center {
     text-align: center;
     color: black;
 }
