@@ -14,11 +14,6 @@ p {
     font-family: Verdana;
 }
 
-p.center {
-    text-align: center;
-    color: black;
-}
-
 a:hover {
     background-color: red;
     font-size: 18px;
