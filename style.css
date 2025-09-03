@@ -22,3 +22,8 @@ a:hover {
 p:hover {
     font-size: 18px;
 }
+
+.center {
+    text-align: center;
+    color: black;
+}
