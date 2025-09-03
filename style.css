@@ -11,7 +11,11 @@ p {
     font-family: Verdana;
 }
 
+p:hover{
+    font-size: 18px;
+}
+
 a:hover {
     background-color: white;
-    font-size: 12px;
 }
+
