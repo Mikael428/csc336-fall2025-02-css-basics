@@ -14,16 +14,15 @@ p {
     font-family: Verdana;
 }
 
-a:hover {
-    background-color: white;
-    font-size: 18px;
-}
-
-p:hover {
-    font-size: 18px;
-}
-
 p.center {
     text-align: center;
     color: black;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active{
+    color: yellow;
 }
