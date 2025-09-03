@@ -19,3 +19,7 @@ a:hover {
     background-color: white;
 }
 
+#para1.hover {
+    text-align: center;
+    color: red;
+}
