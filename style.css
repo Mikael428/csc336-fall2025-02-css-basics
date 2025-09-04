@@ -23,3 +23,11 @@ a:hover {
     text-align: center;
     color: red;
 }
+
+#para2:div {
+    background-color: black;
+    width: 300px;
+    border: 15px solid green;
+    padding: 40px;
+    margin: 20px;
+}
