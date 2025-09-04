@@ -24,17 +24,13 @@ a:hover {
     color: red;
 }
 
-    body{
-    margin: 0;
-    padding: 0;
-    
-}
+
 
 .header{
     
     position: sticky;
     top: 0;
     width: 100%;
-    padding: 20px 26px;
+    padding: 50px 20px;
     background-color: grey;
 }
