@@ -23,3 +23,10 @@ a:hover {
     text-align: center;
     color: red;
 }
+
+.title{
+    position: sticky;
+    top: 0;
+    padding: 10px 16px;
+    background-color: aliceblue;
+}
