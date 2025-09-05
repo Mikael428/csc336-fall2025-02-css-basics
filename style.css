@@ -27,7 +27,7 @@ a:hover {
 
 
 .sticky-header{
-    position: sticky;
+    position: sticky, fixed;
     top: 0;
     padding: 10px;
     background-color: grey;
