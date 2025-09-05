@@ -44,11 +44,3 @@ a:hover {
 .container {
     padding: 4px 16px;
 }
-
-#Peter.card{
-    float: left;
-}
-
-#Lois.card{
-    float: right;
-}
