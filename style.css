@@ -47,10 +47,12 @@ a:hover {
     padding: 4px 16px;
 }
 
-footer {
-    background-color: aliceblue;
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
     color: wheat;
-    padding: 20px;
     text-align: center;
-    margin: 0 10px;
 }
