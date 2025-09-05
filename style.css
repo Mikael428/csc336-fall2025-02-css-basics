@@ -46,3 +46,11 @@ a:hover {
 .container {
     padding: 4px 16px;
 }
+
+footer {
+    background-color: aliceblue;
+    color: wheat;
+    padding: 20px;
+    text-align: center;
+    margin: 0 10px;
+}
