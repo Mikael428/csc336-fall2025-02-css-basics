@@ -44,7 +44,7 @@ footer{
     display: block;
 }
 
-header.header{
+#muhHeader.header{
     padding: 60px;
     text-align: center;
     background-color: aqua;
