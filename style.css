@@ -2,6 +2,23 @@ body {
     background-color: lightblue;
 }
 
+.header{
+    overflow: hidden;
+    background-color: aliceblue;
+    padding: 20px 10px;
+}
+
+.header a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 4px;
+}
+
 h1 {
     color: white;
     text-align: center;
@@ -44,10 +61,3 @@ footer{
     display: block;
 }
 
-#muhHeader.header{
-    padding: 60px;
-    text-align: center;
-    background-color: aqua;
-    color: white;
-    font-size: 30px;
-}
