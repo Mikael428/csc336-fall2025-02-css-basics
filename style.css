@@ -54,7 +54,7 @@ body{
 }
 
 .flex-container{
-    flex-basis: 100%;
+    width: 100%;
 }
 
 .flex-container > div{
