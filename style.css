@@ -53,5 +53,14 @@ body{
     padding-bottom: 50px;
 }
 
+.flex-container{
+    flex-basis: 100%;
+}
+
+.flex-container > div{
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
 
 
