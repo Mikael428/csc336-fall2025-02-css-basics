@@ -29,6 +29,7 @@ a:hover {
 .card {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
+    flex-grow: 0.8;
 }
 
 .card:hover{
@@ -61,7 +62,7 @@ body{
 }
 
 .item{
-    flex-grow: 1;
+    flex-grow: 0.8;
 }
 
 
