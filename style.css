@@ -46,6 +46,7 @@ footer{
 
 .flex-container{
     display: flex;
+    padding: 3px;
     width: 100%;
 }
 
@@ -54,5 +55,4 @@ div {
         border: 15px blue;
         padding: 30px;
         margin: 20px;
-        width: 20%;
 }
