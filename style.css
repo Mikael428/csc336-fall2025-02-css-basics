@@ -55,6 +55,7 @@ body{
 
 .flex-container{
     display: flex;
+    padding: auto;
     justify-content: space-between;
     gap: 30px;
 }
