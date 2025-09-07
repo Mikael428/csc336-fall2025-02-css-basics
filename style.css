@@ -40,7 +40,7 @@ a:hover {
 }
 
 footer{
-    position: fixed;
+    position: sticky;
     bottom: 0;
     width: 100%;
     background-color: antiquewhite;
@@ -56,9 +56,6 @@ body{
 .flex-container{
     display: flex;
     justify-content: center;
-    align-items: center;
-    padding: 10px;
-    gap: 25px;
-    width: auto;
+    gap: 20px;
 }
 
