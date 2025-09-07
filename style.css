@@ -42,14 +42,20 @@ a:hover {
 
 footer{
     position: sticky;
+    padding: 5px;
+    bottom: 0;
     display: block;
+}
+.section{
+    width: 100%;
+    height: 300px;
 }
 
 .flex-container{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 40px;
+    gap: 35px;
     width: 100%;
 }
 
