@@ -41,18 +41,11 @@ a:hover {
 
 
 footer{
+    position: sticky;
     display: block;
 }
 
 .flex-container{
     display: flex;
-    padding: 3px;
     width: 100%;
-}
-
-div {
-        background-color: grey;
-        border: 15px blue;
-        padding: 30px;
-        margin: 20px;
 }
