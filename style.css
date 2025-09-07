@@ -53,13 +53,13 @@ body{
     padding-bottom: 50px;
 }
 
-.flex-container{
+.flex{
     justify-content: space-between;
     gap: 25px;
     display: flex;
 }
 
-.flex-container div {
+.flex div {
     flex-grow: 1;
     text-align: center;
 }
