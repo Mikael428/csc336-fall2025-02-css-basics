@@ -44,7 +44,7 @@ footer{
     bottom: 0;
     width: 100%;
     background-color: antiquewhite;
-    color: white;
+    color: black;
     padding: 10px;
     text-align: center;
 }
@@ -58,6 +58,6 @@ body{
     justify-content: center;
     align-items: center;
     gap: 25px;
-    width: 90%;
+    width: 100%;
 }
 
