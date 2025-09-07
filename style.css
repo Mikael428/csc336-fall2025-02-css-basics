@@ -55,13 +55,9 @@ body{
 
 .flex-container{
     justify-content: space-between;
-    gap: 25px;
+    gap: 20px;
     display: flex;
-    width: 100%
-}
-
-.item{
-    flex-grow: 0.5;
+    width: 90%
 }
 
 
