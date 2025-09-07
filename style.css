@@ -63,4 +63,8 @@ body{
     font-size: 30px;
 }
 
+.item{
+    flex-grow: 1;
+}
+
 
