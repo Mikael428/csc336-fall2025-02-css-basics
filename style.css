@@ -48,3 +48,12 @@ footer{
     display: flex;
     width: 100%;
 }
+
+div {
+        background-color: grey;
+        width: 400px;
+        border: 15px blue;
+        padding: 30px;
+        margin: 20px;
+        width: 50%;
+}
