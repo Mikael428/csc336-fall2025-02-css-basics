@@ -59,8 +59,4 @@ body{
     display: flex;
 }
 
-.flex-container div {
-    flex-grow: 1;
-    text-align: center;
-}
 
