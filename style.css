@@ -60,4 +60,8 @@ body{
     width: 100%
 }
 
+.item{
+    flex-grow: 1;
+}
+
 
