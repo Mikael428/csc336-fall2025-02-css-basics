@@ -26,6 +26,7 @@
 
     <style>
     header{
+        position: sticky;
         text-align: center;
         padding: auto;
         background-color: aqua;
@@ -33,11 +34,28 @@
         }
     </style>
 
+    <style>
+    .container-fluid {
+    display: flex;
+    width: 92%;
+    max-width: 900px;
+    }
+
+    .flex-item {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    flex-grow: 2;
+    }
+</style>
+
     <header>
         <a href="index.html" class="Name">My Website</a><br>
     </header>
     <div class="flex-container">
-            <div><a href="https://mikael428.github.io/csc336-fall2025-02-css-basics">Home</a></div>
+            <div><a href="https://mikael428.github.io/csc336-fall2025-02-css-basics">Home</a></div><img src="K_H.jpg">
             <div><a href="http://www.youtube.com/">Contact</a></div>
             <div><a href="https://www.wikipedia.org/">About</a></div>
     </div>
@@ -45,14 +63,19 @@
     <div class = "container-fluid" style="display: flex; justify-content: center;">
         <div class = "card">
         <img src="PETER_HEAD.webp" alt="Peter" style="width:100%">
-        <h4><b>Peter Griffin</b></h4>
+        <h4><b>Peter Griffin (Founder)</b></h4>
         <p>Loving Father, Brewer</p>
         </div>
         <div class="card">
             <img src="LOIS_HEAD.jpg" alt="Lois"
             style="width:100%">
-            <h4><b>Lois Griffin</b></h4>
+            <h4><b>Lois Griffin (Co-Founder)</b></h4>
             <p>Wife, Groceries</p>
+        <div class="card">
+            <img src="brian-griffin-pic.webp" alt="Brian"
+            style="width:100%">
+            <h4><b>Brian Griffin (Co-Founder)</b></h4>
+            <p>Pet</p>
         </div>
         </div>
 
