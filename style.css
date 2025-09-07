@@ -36,11 +36,11 @@ a:hover {
 }
 
 .container {
-    padding: 16px 64px;
+    padding: 4px 16px;
 }
 
 footer{
-    position: sticky;
+    position: bottom;
     bottom: 0;
     width: 100%;
     background-color: antiquewhite;
