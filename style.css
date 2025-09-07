@@ -46,6 +46,5 @@ footer{
 }
 
 .flex-container{
-    display: flex;
-    width: 100%;
+    width: 50%;
 }
