@@ -54,3 +54,9 @@ body{
     padding-bottom: 50px;
 }
 
+.box{
+    background-color: antiquewhite;
+    padding: 50px;
+    margin: 50px;
+    border-radius: 15px;
+}
