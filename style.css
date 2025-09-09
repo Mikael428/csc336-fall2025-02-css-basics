@@ -59,6 +59,7 @@ body{
     padding: 50px;
     margin: 50px;
     border-radius: 15px;
+    display: flex;
     width: 92%;
     max-width: 1800px;
 }
